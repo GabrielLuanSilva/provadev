@@ -1,0 +1,4 @@
+flask~=2.2.2
+flask-sqlalchemy~=3.0.2
+pymongo~=4.3.3
+mongoengine~=0.25.0
